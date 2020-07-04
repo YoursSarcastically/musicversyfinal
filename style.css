@@ -1,0 +1,108 @@
+ul{
+  background-color:black;
+  list-style-type:none;
+  overflow:hidden;
+  }
+li a{
+  color:#A2A2A2;
+  float:left;
+  padding:50px 60px;
+  margin-left:100px;
+  font-family: 'Montserrat', sans-serif;
+  
+}
+li a:hover{
+  text-decoration:none;
+  color:white;
+}
+body{
+  background-color:black !important;
+}
+.mix{
+  font-family: 'Lilita One', cursive;
+  color:white;
+}
+p{
+ font-family: 'Lilita One', cursive;
+  color:white; 
+  text-align:center;
+}
+.image{
+  height:200px;
+  width:200px;
+}
+
+.col{
+  width:200px !important;
+}
+
+.name{
+	color:orangered;
+	font-size: 30px;
+	font-family: 'Lilita One', cursive;
+}
+
+
+.my{
+	height:400px;
+	width:400px;
+ border-radius: 10%;
+}
+
+.my-text{
+	color:white;
+ font-family: 'Lilita One', cursive;
+}
+
+.my-desc{
+	font-family: 'Montserrat', sans-serif;
+	
+}
+
+.fac{
+color: white;
+	font-size: 50px;
+}
+
+.fac:hover{
+	color:cornflowerblue;
+}
+
+.req{
+	color:darkorange;
+	font-family: 'Oswald', sans-serif;
+}
+
+
+
+.ma{
+	color: white;
+	font-size: 50px;
+}
+
+
+.ma:hover{
+	
+	color: deeppink;
+	
+}
+.in{
+	color: white;
+	font-size: 50px;
+	
+	
+}
+
+.in:hover{
+	color:lightskyblue;
+}
+
+.but{
+	border:none;
+}
+
+
+.but:hover{
+	background-color: orange;
+	
+}
